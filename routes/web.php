@@ -15,5 +15,5 @@ use Illuminate\Support\Facades\Route;
 
 //tesstyt
 Route::get('/', function () {
-    return view('test');
+    return view('test1');
 });
